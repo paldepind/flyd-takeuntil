@@ -1,0 +1,29 @@
+{
+  "name": "flyd-takeuntil",
+  "version": "0.0.1",
+  "description": "Emit values from a stream until a second stream emits a value or ends.",
+  "main": "takeuntil.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paldepind/flyd-takeuntil.git"
+  },
+  "keywords": [
+    "flyd",
+    "takeuntil"
+  ],
+  "author": "Simon Friis Vindum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paldepind/flyd-takeuntil/issues"
+  },
+  "homepage": "https://github.com/paldepind/flyd-takeuntil",
+  "dependencies": {
+    "flyd": "^0.1.0"
+  }
+}
